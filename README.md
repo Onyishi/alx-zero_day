@@ -1,1 +1,1 @@
-My first readme
+Coding is fun for code lovers like me !
